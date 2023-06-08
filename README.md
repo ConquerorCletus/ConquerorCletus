@@ -58,26 +58,7 @@
    <a href="https://github.com/ConquerorCletus/github-profile-views-counter">
        <img src="https://komarev.com/ghpvc/?username=ConquerorCletus">
        </a>
-       
-   ## ❤ Views and Followers.
-
-       <a href="https://github.com/ConquerorCletus?tab=followers">
-       <img src="https://img.shields.io/github/followers/ConquerorCletus?label=Followers&style=social" alt="GitHub Badge">
-       </a>
 
 
-        <br>
-	 
-	  
-	   ## Stats.
-
-	   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=conquerorcletus&show_icons=true&locale=en" alt="conquerorcletus" /></p>
-
-	   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=conquerorcletus&" alt="conquerorcletus" /></p>
-
-	    <br/>
-	     <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level, Thank you.
-
-
-	     <br/>
-
+**The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level, Thank you.**
+####
